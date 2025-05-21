@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Joylene Kirui!
 
-🎓 Full-Stack Developer | 🌍 Tech Educator | 🤖 AI Explorer  
-💻 Ubuntu Enthusiast | 🧠 Lifelong Learner | 🌱 Open Source Contributor
+🎓 Full-Stack Developer | 🌍 Tech Educator | 🤖 AI Explorer | 🧠 Lifelong Learner | 🌱 Open Source Contributor
 
 ---
 
@@ -21,7 +20,6 @@
 
 ## 🔭 Current Projects
 
-- 🌐 [Personal Portfolio Website](https://github.com/JoyKirui/portfolio)
 - 🛠️ Building Python tools to automate emails and CV scoring
 - ✨ AI experiments using OpenAI & Hugging Face
 - 📚 Contributing to community workshops on digital skills
@@ -30,14 +28,14 @@
 
 ## 📈 GitHub Stats
 
-![Joylene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyKirui&show_icons=true&theme=tokyonight)
+![Joylene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoylynKirui&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌍 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joylene-kirui/)
-- 📝 [Blog (Coming Soon)](https://github.com/JoyKirui/blog)
+- 📝 [Blog (Coming Soon)](https://github.com/JoyleneKirui/blog)
 
 ---
 
